@@ -16,7 +16,7 @@ This project is a clone of the Twitter user interface built using Tailwind CSS. 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/Twitter-UI-Clone.git
+   git clone https://github.com/Mithilesh-27/Twitter-UI-Clone.git
    cd Twitter-UI-Clone
    ```
 
